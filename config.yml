@@ -1,0 +1,154 @@
+---
+# This is configuration file for font builder and other support scripts.
+# Format is descriped below.
+#
+#
+# # metadata, to generate demo & fontello info dialogs
+# meta:
+#
+#  author: Daniel Buce
+#  homepage: http://...
+#  email: ...
+#  twitter: http://twitter.com/...
+#  dribble: http://dribbble.com/...
+#  licence: SIL
+#  licence_url: http://scripts.sil.org/OFL
+#
+#   css-prefix: "icon-"             # prefix for css-generated classes
+#   demo-columns: 4                 # used for html demo page generation
+#
+# # Font headers. All vars from here will be used as font
+# # params in fontforge http://fontforge.sourceforge.net/python.html
+# font:
+#
+#   version: "1.0"
+#
+#   # use !!!small!!! letters a-z, or Opera will fail under OS X
+#   # fontname will be also used as file name.
+#   fontname: myfont
+#
+#   fullname: MyFont
+#   familyname: Myfont
+#
+#   copyright: Copyright (C) 2012 by xxxxxxxx
+#
+#   ascent: 1638
+#   descent: 410
+#   weight: Regular
+#
+#
+# #
+# # Optional. You can apply global rescale + offset to all font glyphs.
+# # Param values ar 0..1, where 1 = 100%. 
+# #
+# transform:
+#   baseline: 0.2                 # baseline for rescale symmetry. Default value
+#                                 # calculated from ascent/decsent
+#   rescale: 0.68                 # rescale glyphs and center around baseline
+#   offset: -0.1                  # shift up/down
+#
+# glyphs:
+#   - file: glyph1_file           # file name, without extention
+#     from: 0xNNN                 # Source code for remapper or merge tool
+#     code: 0xNNN                 # Symbol code 0x - hex
+#     css: icon-gpyph1-name       # For generated CSS
+#     search: [word1, word2]      # Search aliases (array). CSS name will be
+#                                 # included automatically
+#     src: first_font_alias       # alias to font for merge tool
+#                                 # list of aliases in src_fonts section
+#
+#     #
+#     # local transformations, only for this glyph (optional)
+#     #
+#     transform:                  # personal glyph transformation.
+#       rescale_rel               # *_rel - applyed after global.
+#       offset: 0.2               # without *_rel - override global
+#
+# #
+# # Fonts aliases used only in font merge tool
+# #
+# src_fonts:
+#   first_font_alias: "/absolute/path/to/first/font.ttf"
+#
+################################################################################
+#
+
+
+meta:
+  author: Croud Sourced, for Fontello project
+  github: https://github.com/fontello/brandico.font
+  licence: SIL
+  licence_url: http://scripts.sil.org/OFL
+
+  css_prefix: "icon-"
+  columns: 4
+
+transform:
+  baseline: 0.5
+
+font:
+  version: "1.0"
+
+  # use !!!small!!! letters a-z, or Opera will fail under OS X
+  # fontname will be also used as file name.
+  fontname: brandico
+
+  fullname: Brandico
+  familyname: Brandico
+
+  copyright: (C) 2012 by Vitaly Puzrin
+
+  ascent: 800
+  descent: 200
+
+
+glyphs:
+
+  - file: facebook
+    code: 0xf300
+    css: facebook
+    transform:
+      offset: 0.05
+    meta:
+      author: Alex Peattie
+      homepage: http://www.alexpeattie.com/projects/justvector_icons/
+    search: [facebook]
+
+  - file: facebook-rect
+    code: 0xf301
+    css: facebook-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Alex Peattie
+      homepage: http://www.alexpeattie.com/projects/justvector_icons/
+    search: [facebook]
+
+  - file: twitter
+    code: 0xf302
+    css: twitter
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [twitter]
+
+  - file: twitter-bird
+    code: 0xf303
+    css: twitter-bird
+    transform:
+      rescale: 0.9
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [twitter]
+
+  - file: icq
+    code: 0xf304
+    css: icq
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [icq]
+
