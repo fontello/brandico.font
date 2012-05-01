@@ -198,3 +198,13 @@ glyphs:
       author: Google
       homepage: http://www.google.com/+/business/brand-guidelines.html
     search: [google]
+
+  - file: vkontakte-rect
+    code: 0xf30a
+    css: vkontakte-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Vkontakte
+      homepage: http://vk.com/help.php?page=about
+    search: [google]
