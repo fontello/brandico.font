@@ -152,3 +152,49 @@ glyphs:
       author: Vitaly Puzrin
     search: [icq]
 
+  - file: yandex
+    code: 0xf305
+    css: yandex
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [yandex]
+
+  - file: yandex-rect
+    code: 0xf306
+    css: yandex-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [yandex]
+
+  - file: github-text
+    code: 0xf307
+    css: github-text
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [github]
+
+  - file: github
+    code: 0xf308
+    css: github
+    transform:
+      rescale: 0.9
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [github]
+
+  - file: googleplus-rect
+    code: 0xf309
+    css: googleplus-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Google
+      homepage: http://www.google.com/+/business/brand-guidelines.html
+    search: [google]
