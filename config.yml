@@ -208,3 +208,13 @@ glyphs:
       author: Vkontakte
       homepage: http://vk.com/help.php?page=about
     search: [google]
+
+  - file: skype
+    code: 0xf30b
+    css: skype
+    transform:
+      offset: 0.05
+    meta:
+      author: Alex Peattie
+      homepage: http://www.alexpeattie.com/projects/justvector_icons/
+    search: [facebook]
