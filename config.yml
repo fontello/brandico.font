@@ -143,32 +143,15 @@ glyphs:
       author: Vitaly Puzrin
     search: [twitter]
 
-  - file: icq
-    code: 0xf304
-    css: icq
+  - file: googleplus-rect
+    code: 0xf309
+    css: googleplus-rect
     transform:
       offset: 0.05
     meta:
-      author: Vitaly Puzrin
-    search: [icq]
-
-  - file: yandex
-    code: 0xf305
-    css: yandex
-    transform:
-      offset: 0.05
-    meta:
-      author: Vitaly Puzrin
-    search: [yandex]
-
-  - file: yandex-rect
-    code: 0xf306
-    css: yandex-rect
-    transform:
-      offset: 0.05
-    meta:
-      author: Vitaly Puzrin
-    search: [yandex]
+      author: Google
+      homepage: http://www.google.com/+/business/brand-guidelines.html
+    search: [google]
 
   - file: github-text
     code: 0xf307
@@ -189,15 +172,44 @@ glyphs:
       author: Vitaly Puzrin
     search: [github]
 
-  - file: googleplus-rect
-    code: 0xf309
-    css: googleplus-rect
+  - file: skype
+    code: 0xf30b
+    css: skype
     transform:
       offset: 0.05
     meta:
-      author: Google
-      homepage: http://www.google.com/+/business/brand-guidelines.html
-    search: [google]
+      author: Alex Peattie
+      homepage: http://www.alexpeattie.com/projects/justvector_icons/
+    search: [skype]
+
+  - file: icq
+    code: 0xf304
+    css: icq
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [icq]
+
+
+
+  - file: yandex
+    code: 0xf305
+    css: yandex
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [yandex]
+
+  - file: yandex-rect
+    code: 0xf306
+    css: yandex-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+    search: [yandex]
 
   - file: vkontakte-rect
     code: 0xf30a
@@ -209,12 +221,22 @@ glyphs:
       homepage: http://vk.com/help.php?page=about
     search: [google]
 
-  - file: skype
-    code: 0xf30b
-    css: skype
+  - file: odnoklassniki
+    code: 0xf30c
+    css: odnoklassniki
     transform:
       offset: 0.05
     meta:
-      author: Alex Peattie
-      homepage: http://www.alexpeattie.com/projects/justvector_icons/
-    search: [facebook]
+      author: MailRu Group
+      homepage: http://corp.mail.ru/communications/odnoklassniki
+    search: [odnoklassniki]
+
+  - file: odnoklassniki-rect
+    code: 0xf30d
+    css: odnoklassniki-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: MailRu Group
+      homepage: http://corp.mail.ru/communications/odnoklassniki
+    search: [odnoklassniki]

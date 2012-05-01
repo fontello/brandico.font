@@ -32,12 +32,14 @@
 .icon-facebook-rect:before { content: ""; } /* '\f301' */
 .icon-twitter:before { content: ""; } /* '\f302' */
 .icon-twitter-bird:before { content: ""; } /* '\f303' */
+.icon-googleplus-rect:before { content: ""; } /* '\f309' */
+.icon-github-text:before { content: ""; } /* '\f307' */
+.icon-github:before { content: ""; } /* '\f308' */
+.icon-skype:before { content: ""; } /* '\f30b' */
 .icon-icq:before { content: ""; } /* '\f304' */
 .icon-yandex:before { content: ""; } /* '\f305' */
 .icon-yandex-rect:before { content: ""; } /* '\f306' */
-.icon-github-text:before { content: ""; } /* '\f307' */
-.icon-github:before { content: ""; } /* '\f308' */
-.icon-googleplus-rect:before { content: ""; } /* '\f309' */
 .icon-vkontakte-rect:before { content: ""; } /* '\f30a' */
-.icon-skype:before { content: ""; } /* '\f30b' */
+.icon-odnoklassniki:before { content: ""; } /* '\f30c' */
+.icon-odnoklassniki-rect:before { content: ""; } /* '\f30d' */
 
