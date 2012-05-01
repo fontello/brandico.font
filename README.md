@@ -1,5 +1,15 @@
-"Crowd-sourced" collection of popular logos, mostly for use in fontello. Since
+[Demo page](https://github.com/fontello/brandico.font)
+
+"Crowdsourced" collection of popular logos, mostly for use in fontello. Since
 it's not good to duplicate logos in every custom font, we did a separate-one.
+
+We have no goal to collect all possible logos here. Only those, that used with
+texts:
+
+- icons for links to pages in social networks
+- messengers icons
+- "login via..." icons
+
 
 License
 -------

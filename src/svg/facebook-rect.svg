@@ -1,53 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Icons"
-   x="0px"
-   y="0px"
-   width="2000"
-   height="2000"
-   viewBox="0 0 2000 2000"
-   xml:space="preserve"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="facebook_alt2.svg"><metadata
-   id="metadata8"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs6" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="1300"
-   inkscape:window-height="943"
-   id="namedview4"
-   showgrid="false"
-   inkscape:zoom="0.382"
-   inkscape:cx="1000"
-   inkscape:cy="1000"
-   inkscape:window-x="65"
-   inkscape:window-y="24"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="Icons"
-   fit-margin-top="0"
-   fit-margin-left="0"
-   fit-margin-right="0"
-   fit-margin-bottom="0" />
-<path
-   id="Facebook__x28_alt_x29_"
-   d="M 2000,333.3556 C 2000,158.2 1841.8667,0 1666.6667,0 H 333.33333 C 158.13333,0 0,158.2 0,333.3556 V 1666.6444 C 0,1841.8 158.13333,2000 333.35556,2000 H 1000 V 1244.4444 H 755.55556 V 911.11111 H 1000 V 781.2444 c 0,-223.9777 168.2,-425.6888 375,-425.6888 h 269.4444 V 688.8889 H 1375 c -29.4889,0 -63.8889,35.8 -63.8889,89.4222 v 132.80001 h 333.3333 V 1244.4444 H 1311.1111 V 2000 h 355.5556 C 1841.8667,2000 2000,1841.8 2000,1666.6444 V 333.3556 z"
-   inkscape:connector-curvature="0" />
+<svg width="1000" height="1000"
+ viewBox="0 0 1000 1000"
+ xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata3060">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <path fill="#000000" d="m182.57957,0l634.8409,0c101.14905,0 182.57953,81.43048 182.57953,182.57956l0,634.84091c0,101.14905 -81.43048,182.57953 -182.57953,182.57953l-634.8409,0c-101.14908,0 -182.57956,-81.43048 -182.57956,-182.57953l0,-634.84091c0,-101.14908 81.43048,-182.57956 182.57956,-182.57956z" id="rect3063"/>
+   <path fill="#ffffff" fill-rule="nonzero" d="m526.66534,999.99969l0,-390.94159l-103.37292,0l0,-140.75745l103.37292,0c0,0 0,-57.68024 0,-120.22552c0,-94.47455 61.06256,-181.23264 201.76453,-181.23264c56.96777,0 99.09351,5.46132 99.09351,5.46132l-3.31934,131.44359c0,0 -42.96124,-0.41745 -89.84192,-0.41745c-50.73932,0 -58.86823,23.3826 -58.86823,62.19208c0,30.67902 0,-65.39746 0,102.77893l152.74347,0l-6.64624,140.75745l-146.09723,0l0,390.94159l-148.82855,0" id="path18"/>
+  </g>
+ </g>
 </svg>

@@ -110,8 +110,8 @@ glyphs:
     transform:
       offset: 0.05
     meta:
-      author: Alex Peattie
-      homepage: http://www.alexpeattie.com/projects/justvector_icons/
+      author: Facebook
+      homepage: http://www.facebook.com/brandpermissions/logos.php
     search: [facebook]
 
   - file: facebook-rect
@@ -120,8 +120,9 @@ glyphs:
     transform:
       offset: 0.05
     meta:
-      author: Alex Peattie
-      homepage: http://www.alexpeattie.com/projects/justvector_icons/
+      author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
     search: [facebook]
 
   - file: twitter
@@ -131,6 +132,8 @@ glyphs:
       offset: 0.05
     meta:
       author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
     search: [twitter]
 
   - file: twitter-bird
@@ -140,7 +143,8 @@ glyphs:
       rescale: 0.9
       offset: 0.05
     meta:
-      author: Vitaly Puzrin
+      author: Twitter
+      homepage: https://twitter.com/about/resources/logos
     search: [twitter]
 
   - file: googleplus-rect
@@ -160,6 +164,8 @@ glyphs:
       offset: 0.05
     meta:
       author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
     search: [github]
 
   - file: github
@@ -170,6 +176,8 @@ glyphs:
       offset: 0.05
     meta:
       author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
     search: [github]
 
   - file: skype
@@ -189,6 +197,8 @@ glyphs:
       offset: 0.05
     meta:
       author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
     search: [icq]
 
 
@@ -200,6 +210,8 @@ glyphs:
       offset: 0.05
     meta:
       author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
     search: [yandex]
 
   - file: yandex-rect
@@ -209,6 +221,8 @@ glyphs:
       offset: 0.05
     meta:
       author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
     search: [yandex]
 
   - file: vkontakte-rect
