@@ -147,6 +147,51 @@ glyphs:
       homepage: https://twitter.com/about/resources/logos
     search: [twitter]
 
+  - file: vimeo
+    code: 0xf30f
+    css: vimeo
+    transform:
+      rescale: 0.8
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
+    search: [vimeo]
+
+  - file: vimeo-rect
+    code: 0xf30e
+    css: vimeo-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
+    search: [vimeo]
+
+  - file: tumblr
+    code: 0xf311
+    css: tumblr
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
+    search: [tumblr]
+
+  - file: tumblr-rect
+    code: 0xf310
+    css: tumblr-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Vitaly Puzrin
+      github: https://github.com/puzrin
+      twitter: https://twitter.com/puzrin
+    search: [tumblr]
+
   - file: googleplus-rect
     code: 0xf309
     css: googleplus-rect

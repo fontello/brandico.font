@@ -32,6 +32,10 @@
 .icon-facebook-rect:before { content: ""; } /* '\f301' */
 .icon-twitter:before { content: ""; } /* '\f302' */
 .icon-twitter-bird:before { content: ""; } /* '\f303' */
+.icon-vimeo:before { content: ""; } /* '\f30f' */
+.icon-vimeo-rect:before { content: ""; } /* '\f30e' */
+.icon-tumblr:before { content: ""; } /* '\f311' */
+.icon-tumblr-rect:before { content: ""; } /* '\f310' */
 .icon-googleplus-rect:before { content: ""; } /* '\f309' */
 .icon-github-text:before { content: ""; } /* '\f307' */
 .icon-github:before { content: ""; } /* '\f308' */
