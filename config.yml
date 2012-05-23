@@ -106,6 +106,7 @@ glyphs:
 
   - file: facebook
     code: 0xf300
+    uid: 240979dd9fcf2e46250e66792edb8092
     css: facebook
     transform:
       offset: 0.05
@@ -116,6 +117,7 @@ glyphs:
 
   - file: facebook-rect
     code: 0xf301
+    uid: 8045477f6a7ef0bd7caff130ad25b88d
     css: facebook-rect
     transform:
       offset: 0.05
@@ -127,6 +129,7 @@ glyphs:
 
   - file: twitter
     code: 0xf302
+    uid: d611dd319d8c13b4551dc5bd85c1bdfd
     css: twitter
     transform:
       offset: 0.05
@@ -138,6 +141,7 @@ glyphs:
 
   - file: twitter-bird
     code: 0xf303
+    uid: 4c01f5d3ba5fbf029bca8630cce41e6a
     css: twitter-bird
     transform:
       rescale: 0.9
@@ -149,6 +153,7 @@ glyphs:
 
   - file: vimeo
     code: 0xf30f
+    uid: 70cdf244c51630e09038659d1dcbee87
     css: vimeo
     transform:
       rescale: 0.8
@@ -161,6 +166,7 @@ glyphs:
 
   - file: vimeo-rect
     code: 0xf30e
+    uid: 31483d870b3f14ac12bdfe7331a6af99
     css: vimeo-rect
     transform:
       offset: 0.05
@@ -172,6 +178,7 @@ glyphs:
 
   - file: tumblr
     code: 0xf311
+    uid: 076f25da90f45dd112e006f2cd7ea76b
     css: tumblr
     transform:
       offset: 0.05
@@ -183,6 +190,7 @@ glyphs:
 
   - file: tumblr-rect
     code: 0xf310
+    uid: 9e6a3483242474b6a1f77739ae3fdfdc
     css: tumblr-rect
     transform:
       offset: 0.05
@@ -194,6 +202,7 @@ glyphs:
 
   - file: googleplus-rect
     code: 0xf309
+    uid: 626fb97a7c0c0db53a1853fb9e96e223
     css: googleplus-rect
     transform:
       offset: 0.05
@@ -204,6 +213,7 @@ glyphs:
 
   - file: github-text
     code: 0xf307
+    uid: 24d1008bf15b6c02a5e7a6af026987dd
     css: github-text
     transform:
       offset: 0.05
@@ -215,6 +225,7 @@ glyphs:
 
   - file: github
     code: 0xf308
+    uid: 4a0bb1ac004980bb3837560d4c9e8cee
     css: github
     transform:
       rescale: 0.9
@@ -227,6 +238,7 @@ glyphs:
 
   - file: skype
     code: 0xf30b
+    uid: 5a00c877da3f63d37cdc021815e3f5a9
     css: skype
     transform:
       offset: 0.05
@@ -237,6 +249,7 @@ glyphs:
 
   - file: icq
     code: 0xf304
+    uid: 01f67de2dc0137389f1c3aced6273acd
     css: icq
     transform:
       offset: 0.05
@@ -250,6 +263,7 @@ glyphs:
 
   - file: yandex
     code: 0xf305
+    uid: b2417d1ce399577d53fff70d54976fea
     css: yandex
     transform:
       offset: 0.05
@@ -261,6 +275,7 @@ glyphs:
 
   - file: yandex-rect
     code: 0xf306
+    uid: ea0cb6bedac64ae7933b03dad3130ef6
     css: yandex-rect
     transform:
       offset: 0.05
@@ -272,6 +287,7 @@ glyphs:
 
   - file: vkontakte-rect
     code: 0xf30a
+    uid: 5b16ceef1c8638bd5389c9302ea04098
     css: vkontakte-rect
     transform:
       offset: 0.05
@@ -282,6 +298,7 @@ glyphs:
 
   - file: odnoklassniki
     code: 0xf30c
+    uid: 229e50061df526f24f1ae884fab52101
     css: odnoklassniki
     transform:
       offset: 0.05
@@ -292,6 +309,7 @@ glyphs:
 
   - file: odnoklassniki-rect
     code: 0xf30d
+    uid: 4a02cc611ae9fb342d6026b2ed6cc44e
     css: odnoklassniki-rect
     transform:
       offset: 0.05
