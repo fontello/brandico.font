@@ -294,7 +294,7 @@ glyphs:
     meta:
       author: Vkontakte
       homepage: http://vk.com/help.php?page=about
-    search: [google]
+    search: [vkontakte]
 
   - file: odnoklassniki
     code: 0xf30c
