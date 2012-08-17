@@ -317,3 +317,23 @@ glyphs:
       author: MailRu Group
       homepage: http://corp.mail.ru/communications/odnoklassniki
     search: [odnoklassniki]
+  - file: friendfeed
+    code: 0xf31a
+    uid: eeec90e0e80f11e1aff10800200c9a66
+    css: friendfeed
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [friendfeed]
+  - file: friendfeed-rect
+    code: 0xf31b
+    uid: 41f4dd00e81111e1aff10800200c9a66
+    css: friendfeed-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [friendfeed]
