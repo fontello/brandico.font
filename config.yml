@@ -339,3 +339,135 @@ glyphs:
       author: Open Icon Library
       homepage: http://openiconlibrary.sourceforge.net
     search: [friendfeed]
+
+  - file: blogger-rect
+    code: 0xf31c
+    uid: a38dfae0ec2d11e1aff10800200c9a66
+    css: blogger-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [blogger]
+
+  - file: deviantart
+    code: 0xf31d
+    uid: d04790a0ec2d11e1aff10800200c9a66
+    css: deviantart
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [deviantart]
+
+  - file: deviantart-rect
+    code: 0xf32a
+    uid: e82e56e0ec2d11e1aff10800200c9a66
+    css: deviantart
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [deviantart]
+
+  - file: jabber
+    code: 0xf32b
+    uid: 466d1430ec2e11e1aff10800200c9a66
+    css: jabber
+    transform:
+      offset: 0.05
+    meta:
+      author: Jabber Software Foundation
+      homepage: http://xmpp.org
+    search: [jabber]
+
+  - file: lastfm
+    code: 0xf32c
+    uid: 9e237480ec2e11e1aff10800200c9a66
+    css: lastfm
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [lastfm]
+
+  - file: lastfm-rect
+    code: 0xf32d
+    uid: 53a3bbcda09740c98a1c3d2e0a6a89fb
+    css: lastfm-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [lastfm]
+
+  - file: linkedin
+    code: 0xf33a
+    uid: 542e3f055aaa4ddfb9ab3e00397db47f
+    css: linkedin
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [linkedin]
+
+  - file: linkedin-rect
+    code: 0xf33b
+    uid: e9e96618b0f44170930f9b179237c76e
+    css: linkedin-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [linkedin]
+
+  - file: picasa
+    code: 0xf33c
+    uid: d93230ef6fa54fb9805ba4cc9d9af5b1
+    css: picasa
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [picasa]
+
+  - file: picasa-rect
+    code: 0xf33d
+    uid: 6e4cba4a566942a9bf6c88b2caab74b5
+    css: picasa-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [picasa]
+
+  - file: wordpress
+    code: 0xf34a
+    uid: 1357ba39f8dc4519949cc4da55226b62
+    css: wordpress
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [wordpress]
+
+  - file: wordpress-rect
+    code: 0xf34b
+    uid: 92b40fb51def4d1abae0dd841c7e1890
+    css: wordpress-rect
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Icon Library
+      homepage: http://openiconlibrary.sourceforge.net
+    search: [wordpress]
