@@ -85,6 +85,8 @@ meta:
 
 transform:
   baseline: 0.5
+  rescale: 0.95
+  offset: 0.025
 
 font:
   version: "1.0"
@@ -108,8 +110,6 @@ glyphs:
     code: 0xf300
     uid: 240979dd9fcf2e46250e66792edb8092
     css: facebook
-    transform:
-      offset: 0.05
     meta:
       author: Facebook
       homepage: http://www.facebook.com/brandpermissions/logos.php
@@ -119,8 +119,6 @@ glyphs:
     code: 0xf301
     uid: 8045477f6a7ef0bd7caff130ad25b88d
     css: facebook-rect
-    transform:
-      offset: 0.05
     meta:
       author: Vitaly Puzrin
       github: https://github.com/puzrin
@@ -131,8 +129,6 @@ glyphs:
     code: 0xf302
     uid: d611dd319d8c13b4551dc5bd85c1bdfd
     css: twitter
-    transform:
-      offset: 0.05
     meta:
       author: Vitaly Puzrin
       github: https://github.com/puzrin
@@ -168,8 +164,6 @@ glyphs:
     code: 0xf30e
     uid: 31483d870b3f14ac12bdfe7331a6af99
     css: vimeo-rect
-    transform:
-      offset: 0.05
     meta:
       author: Vitaly Puzrin
       github: https://github.com/puzrin
@@ -180,8 +174,6 @@ glyphs:
     code: 0xf311
     uid: 076f25da90f45dd112e006f2cd7ea76b
     css: tumblr
-    transform:
-      offset: 0.05
     meta:
       author: Vitaly Puzrin
       github: https://github.com/puzrin
@@ -192,8 +184,6 @@ glyphs:
     code: 0xf310
     uid: 9e6a3483242474b6a1f77739ae3fdfdc
     css: tumblr-rect
-    transform:
-      offset: 0.05
     meta:
       author: Vitaly Puzrin
       github: https://github.com/puzrin
@@ -204,8 +194,6 @@ glyphs:
     code: 0xf309
     uid: 626fb97a7c0c0db53a1853fb9e96e223
     css: googleplus-rect
-    transform:
-      offset: 0.05
     meta:
       author: Google
       homepage: http://www.google.com/+/business/brand-guidelines.html
@@ -215,8 +203,6 @@ glyphs:
     code: 0xf307
     uid: 24d1008bf15b6c02a5e7a6af026987dd
     css: github-text
-    transform:
-      offset: 0.05
     meta:
       author: Vitaly Puzrin
       github: https://github.com/puzrin
@@ -240,8 +226,6 @@ glyphs:
     code: 0xf30b
     uid: 5a00c877da3f63d37cdc021815e3f5a9
     css: skype
-    transform:
-      offset: 0.05
     meta:
       author: Alex Peattie
       homepage: http://www.alexpeattie.com/projects/justvector_icons/
@@ -251,8 +235,6 @@ glyphs:
     code: 0xf304
     uid: 01f67de2dc0137389f1c3aced6273acd
     css: icq
-    transform:
-      offset: 0.05
     meta:
       author: Vitaly Puzrin
       github: https://github.com/puzrin
@@ -265,8 +247,6 @@ glyphs:
     code: 0xf305
     uid: b2417d1ce399577d53fff70d54976fea
     css: yandex
-    transform:
-      offset: 0.05
     meta:
       author: Vitaly Puzrin
       github: https://github.com/puzrin
@@ -277,8 +257,6 @@ glyphs:
     code: 0xf306
     uid: ea0cb6bedac64ae7933b03dad3130ef6
     css: yandex-rect
-    transform:
-      offset: 0.05
     meta:
       author: Vitaly Puzrin
       github: https://github.com/puzrin
@@ -289,8 +267,6 @@ glyphs:
     code: 0xf30a
     uid: 5b16ceef1c8638bd5389c9302ea04098
     css: vkontakte-rect
-    transform:
-      offset: 0.05
     meta:
       author: Vkontakte
       homepage: http://vk.com/help.php?page=about
@@ -300,8 +276,6 @@ glyphs:
     code: 0xf30c
     uid: 229e50061df526f24f1ae884fab52101
     css: odnoklassniki
-    transform:
-      offset: 0.05
     meta:
       author: MailRu Group
       homepage: http://corp.mail.ru/communications/odnoklassniki
@@ -311,140 +285,122 @@ glyphs:
     code: 0xf30d
     uid: 4a02cc611ae9fb342d6026b2ed6cc44e
     css: odnoklassniki-rect
-    transform:
-      offset: 0.05
     meta:
       author: MailRu Group
       homepage: http://corp.mail.ru/communications/odnoklassniki
     search: [odnoklassniki]
 
+
   - file: friendfeed
-    code: 0xf31a
+    code: 0xf312
     uid: eeec90e0e80f11e1aff10800200c9a66
     css: friendfeed
-    transform:
-      offset: 0.05
     meta:
       author: Open Icon Library
       homepage: http://openiconlibrary.sourceforge.net
     search: [friendfeed]
 
   - file: friendfeed-rect
-    code: 0xf31b
+    code: 0xf313
     uid: 41f4dd00e81111e1aff10800200c9a66
     css: friendfeed-rect
-    transform:
-      offset: 0.05
     meta:
       author: Open Icon Library
       homepage: http://openiconlibrary.sourceforge.net
     search: [friendfeed]
 
   - file: blogger
-    code: 0xf31c
+    code: 0xf314
     uid: 303f1f30-eda7-11e1-aff1-0800200c9a66
     css: blogger
-    transform:
-      offset: 0.05
     meta:
       author: Open Clip Art Library
       homepage: https://openclipart.org/
     search: [blogger]
 
   - file: blogger-rect
-    code: 0xf31d
+    code: 0xf315
     uid: a38dfae0ec2d11e1aff10800200c9a66
     css: blogger-rect
-    transform:
-      offset: 0.05
     meta:
       author: Open Clip Art Library
       homepage: https://openclipart.org/
     search: [blogger]
 
+
   - file: deviantart
-    code: 0xf32a
+    code: 0xf316
     uid: d04790a0ec2d11e1aff10800200c9a66
     css: deviantart
     transform:
-      offset: 0.05
+      rescale: 1.2
+      offset: -0.025
     meta:
       author: Open Icon Library
       homepage: http://openiconlibrary.sourceforge.net
     search: [deviantart]
 
+
   - file: jabber
-    code: 0xf32b
+    code: 0xf317
     uid: 466d1430ec2e11e1aff10800200c9a66
     css: jabber
-    transform:
-      offset: 0.05
     meta:
       author: Jabber Software Foundation
       homepage: http://xmpp.org
     search: [jabber]
 
+
   - file: lastfm
-    code: 0xf32c
+    code: 0xf318
     uid: 9e237480ec2e11e1aff10800200c9a66
     css: lastfm
-    transform:
-      offset: 0.05
     meta:
       author: Last.fm
       homepage: http://www.last.fm/resources
     search: [lastfm]
 
   - file: lastfm-rect
-    code: 0xf32d
+    code: 0xf319
     uid: 53a3bbcda09740c98a1c3d2e0a6a89fb
     css: lastfm-rect
-    transform:
-      offset: 0.05
     meta:
       author: Last.fm
       homepage: http://www.last.fm/resources
     search: [lastfm]
 
+
   - file: linkedin
-    code: 0xf33a
+    code: 0xf31a
     uid: 542e3f055aaa4ddfb9ab3e00397db47f
     css: linkedin
-    transform:
-      offset: 0.05
     meta:
       author: Open Icon Library
       homepage: http://openiconlibrary.sourceforge.net
     search: [linkedin]
 
   - file: linkedin-rect
-    code: 0xf33b
+    code: 0xf31b
     uid: e9e96618b0f44170930f9b179237c76e
     css: linkedin-rect
-    transform:
-      offset: 0.05
     meta:
       author: Open Icon Library
       homepage: http://openiconlibrary.sourceforge.net
     search: [linkedin]
 
   - file: picasa
-    code: 0xf33c
+    code: 0xf31c
     uid: d93230ef6fa54fb9805ba4cc9d9af5b1
     css: picasa
-    transform:
-      offset: 0.05
     meta:
       author: Open Icon Library
       homepage: http://openiconlibrary.sourceforge.net
     search: [picasa]
 
   - file: wordpress
-    code: 0xf33d
+    code: 0xf31d
     uid: 1357ba39f8dc4519949cc4da55226b62
     css: wordpress
-    transform:
-      offset: 0.05
     meta:
       author: Open Icon Library
       homepage: http://openiconlibrary.sourceforge.net
