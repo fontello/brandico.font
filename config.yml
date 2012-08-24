@@ -340,31 +340,31 @@ glyphs:
       homepage: http://openiconlibrary.sourceforge.net
     search: [friendfeed]
 
-  - file: blogger-rect
+  - file: blogger
     code: 0xf31c
+    uid: 303f1f30-eda7-11e1-aff1-0800200c9a66
+    css: blogger
+    transform:
+      offset: 0.05
+    meta:
+      author: Open Clip Art Library
+      homepage: https://openclipart.org/
+    search: [blogger]
+
+  - file: blogger-rect
+    code: 0xf31d
     uid: a38dfae0ec2d11e1aff10800200c9a66
     css: blogger-rect
     transform:
       offset: 0.05
     meta:
-      author: Open Icon Library
-      homepage: http://openiconlibrary.sourceforge.net
+      author: Open Clip Art Library
+      homepage: https://openclipart.org/
     search: [blogger]
 
   - file: deviantart
-    code: 0xf31d
-    uid: d04790a0ec2d11e1aff10800200c9a66
-    css: deviantart
-    transform:
-      offset: 0.05
-    meta:
-      author: Open Icon Library
-      homepage: http://openiconlibrary.sourceforge.net
-    search: [deviantart]
-
-  - file: deviantart-rect
     code: 0xf32a
-    uid: e82e56e0ec2d11e1aff10800200c9a66
+    uid: d04790a0ec2d11e1aff10800200c9a66
     css: deviantart
     transform:
       offset: 0.05
@@ -391,8 +391,8 @@ glyphs:
     transform:
       offset: 0.05
     meta:
-      author: Open Icon Library
-      homepage: http://openiconlibrary.sourceforge.net
+      author: Last.fm
+      homepage: http://www.last.fm/resources
     search: [lastfm]
 
   - file: lastfm-rect
@@ -402,8 +402,8 @@ glyphs:
     transform:
       offset: 0.05
     meta:
-      author: Open Icon Library
-      homepage: http://openiconlibrary.sourceforge.net
+      author: Last.fm
+      homepage: http://www.last.fm/resources
     search: [lastfm]
 
   - file: linkedin
@@ -439,32 +439,10 @@ glyphs:
       homepage: http://openiconlibrary.sourceforge.net
     search: [picasa]
 
-  - file: picasa-rect
-    code: 0xf33d
-    uid: 6e4cba4a566942a9bf6c88b2caab74b5
-    css: picasa-rect
-    transform:
-      offset: 0.05
-    meta:
-      author: Open Icon Library
-      homepage: http://openiconlibrary.sourceforge.net
-    search: [picasa]
-
   - file: wordpress
-    code: 0xf34a
+    code: 0xf33d
     uid: 1357ba39f8dc4519949cc4da55226b62
     css: wordpress
-    transform:
-      offset: 0.05
-    meta:
-      author: Open Icon Library
-      homepage: http://openiconlibrary.sourceforge.net
-    search: [wordpress]
-
-  - file: wordpress-rect
-    code: 0xf34b
-    uid: 92b40fb51def4d1abae0dd841c7e1890
-    css: wordpress-rect
     transform:
       offset: 0.05
     meta:

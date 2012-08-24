@@ -48,8 +48,8 @@
 .odnoklassniki-rect:before { content: ""; } /* '\f30d' */
 .friendfeed:before { content: ""; } /* '\f31a' */
 .friendfeed-rect:before { content: ""; } /* '\f31b' */
-.blogger-rect:before { content: ""; } /* '\f31c' */
-.deviantart:before { content: ""; } /* '\f31d' */
+.blogger:before { content: ""; } /* '\f31c' */
+.blogger-rect:before { content: ""; } /* '\f31d' */
 .deviantart:before { content: ""; } /* '\f32a' */
 .jabber:before { content: ""; } /* '\f32b' */
 .lastfm:before { content: ""; } /* '\f32c' */
@@ -57,6 +57,4 @@
 .linkedin:before { content: ""; } /* '\f33a' */
 .linkedin-rect:before { content: ""; } /* '\f33b' */
 .picasa:before { content: ""; } /* '\f33c' */
-.picasa-rect:before { content: ""; } /* '\f33d' */
-.wordpress:before { content: ""; } /* '\f34a' */
-.wordpress-rect:before { content: ""; } /* '\f34b' */
+.wordpress:before { content: ""; } /* '\f33d' */
