@@ -405,3 +405,22 @@ glyphs:
       author: Open Icon Library
       homepage: http://openiconlibrary.sourceforge.net
     search: [wordpress]
+
+  - file: instagram
+    code: // TODO
+    uid: // TODO
+    css: instagram
+    meta:
+      author: Kyle Mac
+      homepage: http://dribbble.com/shots/690589-Instagram-Vector-Icon-Download
+    search: [instagram]
+
+  - file: instagram-filled
+    code: // TODO
+    uid: // TODO
+    css: instagram-filled
+    meta:
+      author: Kyle Mac
+      homepage: http://dribbble.com/shots/690589-Instagram-Vector-Icon-Download
+    search: [instagram]
+
