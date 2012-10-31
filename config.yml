@@ -407,8 +407,8 @@ glyphs:
     search: [wordpress]
 
   - file: instagram
-    code: // TODO
-    uid: // TODO
+    code: 0xf31e
+    uid: dad4e7f8dc2e57c92cffc0231202d9a0
     css: instagram
     meta:
       author: Kyle Mac
@@ -416,8 +416,8 @@ glyphs:
     search: [instagram]
 
   - file: instagram-filled
-    code: // TODO
-    uid: // TODO
+    code: 0xf31f
+    uid: cc20f2a7fa05a475130c406740bbbd26
     css: instagram-filled
     meta:
       author: Kyle Mac
