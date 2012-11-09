@@ -83,10 +83,10 @@ meta:
   css_prefix: "icon-"
   columns: 4
 
-transform:
-  baseline: 0.5
-  rescale: 0.95
-  offset: 0.025
+#transform:
+#  baseline: 0.5
+#  rescale: 0.95
+#  offset: 0.025
 
 font:
   version: "1.0"
@@ -100,8 +100,8 @@ font:
 
   copyright: (C) 2012 by Vitaly Puzrin
 
-  ascent: 800
-  descent: 200
+  ascent: 850
+  descent: 150
 
 
 glyphs:
