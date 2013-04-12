@@ -60,4 +60,5 @@
 .icon-wordpress:before { content: "\f31d"; } /* '\f31d' */
 .icon-instagram:before { content: "\f31e"; } /* '\f31e' */
 .icon-instagram-filled:before { content: "\f31f"; } /* '\f31f' */
-
+.icon-box:before { content: "\f320"; } /* '\f320' */
+.icon-box-rect:before { content: "\f321"; } /* '\f321' */

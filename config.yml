@@ -424,3 +424,20 @@ glyphs:
       homepage: http://dribbble.com/shots/690589-Instagram-Vector-Icon-Download
     search: [instagram]
 
+  - file: box
+    code: 0xf320
+    uid: 968e63a0a36311e29e960800200c9a66
+    css: box
+    meta:
+      author: Jesse Clark
+      homepage: http://developers.box.com/branding/
+    search: [box]
+
+  - file: box-rect
+    code: 0xf321
+    uid: d52050c0a36711e29e960800200c9a66
+    css: box-rect
+    meta:
+      author: Jesse Clark
+      homepage: http://developers.box.com/branding/
+    search: [box]
