@@ -80,7 +80,7 @@ meta:
   license: SIL
   license_url: http://scripts.sil.org/OFL
 
-  css_prefix: "icon-"
+  css_prefix_text: "icon-"
   columns: 4
 
 #transform:
@@ -101,13 +101,12 @@ font:
   copyright: (C) 2012 by Vitaly Puzrin
 
   ascent: 850
-  descent: 150
+  descent: -150
 
 
 glyphs:
 
-  - file: facebook
-    code: 0xf300
+  - code: 0xf300
     uid: 240979dd9fcf2e46250e66792edb8092
     css: facebook
     meta:
@@ -115,8 +114,7 @@ glyphs:
       homepage: http://www.facebook.com/brandpermissions/logos.php
     search: [facebook]
 
-  - file: facebook-rect
-    code: 0xf301
+  - code: 0xf301
     uid: 8045477f6a7ef0bd7caff130ad25b88d
     css: facebook-rect
     meta:
@@ -125,8 +123,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [facebook]
 
-  - file: twitter
-    code: 0xf302
+  - code: 0xf302
     uid: d611dd319d8c13b4551dc5bd85c1bdfd
     css: twitter
     meta:
@@ -135,8 +132,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [twitter]
 
-  - file: twitter-bird
-    code: 0xf303
+  - code: 0xf303
     uid: 4c01f5d3ba5fbf029bca8630cce41e6a
     css: twitter-bird
     transform:
@@ -147,8 +143,7 @@ glyphs:
       homepage: https://twitter.com/about/resources/logos
     search: [twitter]
 
-  - file: vimeo
-    code: 0xf30f
+  - code: 0xf30f
     uid: 70cdf244c51630e09038659d1dcbee87
     css: vimeo
     transform:
@@ -160,8 +155,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [vimeo]
 
-  - file: vimeo-rect
-    code: 0xf30e
+  - code: 0xf30e
     uid: 31483d870b3f14ac12bdfe7331a6af99
     css: vimeo-rect
     meta:
@@ -170,8 +164,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [vimeo]
 
-  - file: tumblr
-    code: 0xf311
+  - code: 0xf311
     uid: 076f25da90f45dd112e006f2cd7ea76b
     css: tumblr
     meta:
@@ -180,8 +173,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [tumblr]
 
-  - file: tumblr-rect
-    code: 0xf310
+  - code: 0xf310
     uid: 9e6a3483242474b6a1f77739ae3fdfdc
     css: tumblr-rect
     meta:
@@ -190,8 +182,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [tumblr]
 
-  - file: googleplus-rect
-    code: 0xf309
+  - code: 0xf309
     uid: 626fb97a7c0c0db53a1853fb9e96e223
     css: googleplus-rect
     meta:
@@ -199,8 +190,7 @@ glyphs:
       homepage: http://www.google.com/+/business/brand-guidelines.html
     search: [google]
 
-  - file: github-text
-    code: 0xf307
+  - code: 0xf307
     uid: 24d1008bf15b6c02a5e7a6af026987dd
     css: github-text
     meta:
@@ -209,8 +199,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [github]
 
-  - file: github
-    code: 0xf308
+  - code: 0xf308
     uid: 4a0bb1ac004980bb3837560d4c9e8cee
     css: github
     transform:
@@ -222,8 +211,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [github]
 
-  - file: skype
-    code: 0xf30b
+  - code: 0xf30b
     uid: 5a00c877da3f63d37cdc021815e3f5a9
     css: skype
     meta:
@@ -231,8 +219,7 @@ glyphs:
       homepage: http://www.alexpeattie.com/projects/justvector_icons/
     search: [skype]
 
-  - file: icq
-    code: 0xf304
+  - code: 0xf304
     uid: 01f67de2dc0137389f1c3aced6273acd
     css: icq
     meta:
@@ -242,9 +229,7 @@ glyphs:
     search: [icq]
 
 
-
-  - file: yandex
-    code: 0xf305
+  - code: 0xf305
     uid: b2417d1ce399577d53fff70d54976fea
     css: yandex
     meta:
@@ -253,8 +238,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [yandex]
 
-  - file: yandex-rect
-    code: 0xf306
+  - code: 0xf306
     uid: ea0cb6bedac64ae7933b03dad3130ef6
     css: yandex-rect
     meta:
@@ -263,8 +247,7 @@ glyphs:
       twitter: https://twitter.com/puzrin
     search: [yandex]
 
-  - file: vkontakte-rect
-    code: 0xf30a
+  - code: 0xf30a
     uid: 5b16ceef1c8638bd5389c9302ea04098
     css: vkontakte-rect
     meta:
@@ -272,8 +255,7 @@ glyphs:
       homepage: http://vk.com/help.php?page=about
     search: [vkontakte]
 
-  - file: odnoklassniki
-    code: 0xf30c
+  - code: 0xf30c
     uid: 229e50061df526f24f1ae884fab52101
     css: odnoklassniki
     meta:
@@ -281,8 +263,7 @@ glyphs:
       homepage: http://corp.mail.ru/communications/odnoklassniki
     search: [odnoklassniki]
 
-  - file: odnoklassniki-rect
-    code: 0xf30d
+  - code: 0xf30d
     uid: 4a02cc611ae9fb342d6026b2ed6cc44e
     css: odnoklassniki-rect
     meta:
@@ -291,8 +272,7 @@ glyphs:
     search: [odnoklassniki]
 
 
-  - file: friendfeed
-    code: 0xf312
+  - code: 0xf312
     uid: eeec90e0e80f11e1aff10800200c9a66
     css: friendfeed
     meta:
@@ -300,8 +280,7 @@ glyphs:
       homepage: http://openiconlibrary.sourceforge.net
     search: [friendfeed]
 
-  - file: friendfeed-rect
-    code: 0xf313
+  - code: 0xf313
     uid: 41f4dd00e81111e1aff10800200c9a66
     css: friendfeed-rect
     meta:
@@ -309,8 +288,7 @@ glyphs:
       homepage: http://openiconlibrary.sourceforge.net
     search: [friendfeed]
 
-  - file: blogger
-    code: 0xf314
+  - code: 0xf314
     uid: 303f1f30-eda7-11e1-aff1-0800200c9a66
     css: blogger
     meta:
@@ -318,8 +296,7 @@ glyphs:
       homepage: https://openclipart.org/
     search: [blogger]
 
-  - file: blogger-rect
-    code: 0xf315
+  - code: 0xf315
     uid: a38dfae0ec2d11e1aff10800200c9a66
     css: blogger-rect
     meta:
@@ -328,8 +305,7 @@ glyphs:
     search: [blogger]
 
 
-  - file: deviantart
-    code: 0xf316
+  - code: 0xf316
     uid: d04790a0ec2d11e1aff10800200c9a66
     css: deviantart
     transform:
@@ -341,8 +317,7 @@ glyphs:
     search: [deviantart]
 
 
-  - file: jabber
-    code: 0xf317
+  - code: 0xf317
     uid: 466d1430ec2e11e1aff10800200c9a66
     css: jabber
     meta:
@@ -351,8 +326,7 @@ glyphs:
     search: [jabber]
 
 
-  - file: lastfm
-    code: 0xf318
+  - code: 0xf318
     uid: 9e237480ec2e11e1aff10800200c9a66
     css: lastfm
     meta:
@@ -360,8 +334,7 @@ glyphs:
       homepage: http://www.last.fm/resources
     search: [lastfm]
 
-  - file: lastfm-rect
-    code: 0xf319
+  - code: 0xf319
     uid: 53a3bbcda09740c98a1c3d2e0a6a89fb
     css: lastfm-rect
     meta:
@@ -370,8 +343,7 @@ glyphs:
     search: [lastfm]
 
 
-  - file: linkedin
-    code: 0xf31a
+  - code: 0xf31a
     uid: 542e3f055aaa4ddfb9ab3e00397db47f
     css: linkedin
     meta:
@@ -379,8 +351,7 @@ glyphs:
       homepage: http://openiconlibrary.sourceforge.net
     search: [linkedin]
 
-  - file: linkedin-rect
-    code: 0xf31b
+  - code: 0xf31b
     uid: e9e96618b0f44170930f9b179237c76e
     css: linkedin-rect
     meta:
@@ -388,8 +359,7 @@ glyphs:
       homepage: http://openiconlibrary.sourceforge.net
     search: [linkedin]
 
-  - file: picasa
-    code: 0xf31c
+  - code: 0xf31c
     uid: d93230ef6fa54fb9805ba4cc9d9af5b1
     css: picasa
     meta:
@@ -397,8 +367,7 @@ glyphs:
       homepage: http://openiconlibrary.sourceforge.net
     search: [picasa]
 
-  - file: wordpress
-    code: 0xf31d
+  - code: 0xf31d
     uid: 1357ba39f8dc4519949cc4da55226b62
     css: wordpress
     meta:
@@ -406,8 +375,7 @@ glyphs:
       homepage: http://openiconlibrary.sourceforge.net
     search: [wordpress]
 
-  - file: instagram
-    code: 0xf31e
+  - code: 0xf31e
     uid: dad4e7f8dc2e57c92cffc0231202d9a0
     css: instagram
     meta:
@@ -415,8 +383,7 @@ glyphs:
       homepage: http://dribbble.com/shots/690589-Instagram-Vector-Icon-Download
     search: [instagram]
 
-  - file: instagram-filled
-    code: 0xf31f
+  - code: 0xf31f
     uid: cc20f2a7fa05a475130c406740bbbd26
     css: instagram-filled
     meta:
