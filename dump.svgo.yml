@@ -37,6 +37,7 @@ plugins:
   - convertTransform
   - convertPathData:
       negativeExtraSpace: false
+      straightCurves: false
   - removeEmptyAttrs
   - removeEmptyContainers
   - mergePaths
