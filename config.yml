@@ -399,4 +399,20 @@ glyphs:
       email: ivo.gregurec@gmail.com
     search: [diigo]
 
+  - css: box
+    code: 0xf321
+    uid: 968e63a0a36311e29e960800200c9a66
+    meta:
+      author: Jesse Clark
+      homepage: http://developers.box.com/branding/
+    search: [box]
+
+  - css: box-rect
+    code: 0xf322
+    uid: d52050c0a36711e29e960800200c9a66
+    meta:
+      author: Jesse Clark
+      homepage: http://developers.box.com/branding/
+    search: [box]
+
 
