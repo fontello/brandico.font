@@ -391,3 +391,12 @@ glyphs:
       homepage: http://dribbble.com/shots/690589-Instagram-Vector-Icon-Download
     search: [instagram]
 
+  - code: 0xf320
+    uid: ca1c321a95f268ed0e54e7ba11a8264d
+    css: diigo
+    meta:
+      author: Ivo Gregurec
+      email: ivo.gregurec@gmail.com
+    search: [diigo]
+
+
