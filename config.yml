@@ -415,4 +415,28 @@ glyphs:
       homepage: http://developers.box.com/branding/
     search: [box]
 
+  - css: tudou
+    code: 0xf323
+    uid: 5d312ed68325656686a91f6da8fa04bd
+    meta:
+      author: Davis Yeung
+      email: ckyeung.davis@gmail.com
+    search: [tudou]
+
+  - css: youku
+    code: 0xf324
+    uid: c874a7b43d3f61059bd6db64fc7d6cb3
+    meta:
+      author: Davis Yeung
+      email: ckyeung.davis@gmail.com
+    search: [youku]
+
+  - css: win8
+    code: 0xf325
+    uid: 3f06cdfffd60c5968c601a2e6c8f9a1b
+    meta:
+      author: Davis Yeung
+      email: ckyeung.davis@gmail.com
+    search: [windows]
+
 
