@@ -439,11 +439,4 @@ glyphs:
       email: ckyeung.davis@gmail.com
     search: [windows]
 
-  - css: blogtalkradio
-    code: 0xf326
-    uid: ef3fba5ba4ee40b44608b2ec4b1626c2
-    meta:
-      author: Ivo Gregurec
-      email: ivo.gregurec@gmail.com
-    search: [blogtalkradio]
 

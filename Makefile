@@ -15,9 +15,6 @@ REMOTE_REPO ?= $(shell git config --get remote.${REMOTE_NAME}.url)
 PWD  := $(shell pwd)
 BIN  := ./node_modules/.bin
 
-
-dist: font html
-
 dump:
 	rm -rf ./src/svg/
 	mkdir ./src/svg/
