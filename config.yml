@@ -39,7 +39,7 @@
 #
 # #
 # # Optional. You can apply global rescale + offset to all font glyphs.
-# # Param values ar 0..1, where 1 = 100%. 
+# # Param values ar 0..1, where 1 = 100%.
 # #
 # transform:
 #   baseline: 0.2                 # baseline for rescale symmetry. Default value
@@ -439,4 +439,34 @@ glyphs:
       email: ckyeung.davis@gmail.com
     search: [windows]
 
+  - css: amex
+    code: 0xf326
+    uid: ca0f6425e0c44d613febeb0f23fa8ddf
+    meta:
+      author: Richard Burton
+      homepage: http://rb.cm
+    search: [amex]
 
+  - css: discover
+    code: 0xf327
+    uid: bbabc3d5d970358cec0a6d19a396b562
+    meta:
+      author: Richard Burton
+      homepage: http://rb.cm
+    search: [discover]
+
+  - css: visa
+    code: 0xf328
+    uid: cd65196712e52477b9252b4b296b0c44
+    meta:
+      author: Richard Burton
+      homepage: http://rb.cm
+    search: [visa]
+
+  - css: mastercard
+    code: 0xf329
+    uid: c3043114c56d36658e5cae51d36281c8
+    meta:
+      author: Richard Burton
+      homepage: http://rb.cm
+    search: [mastercard]
