@@ -479,3 +479,11 @@ glyphs:
       email: jason.mook@gmail.com
     search: [houzz]
 
+  - css: bandcamp
+    code: 0xf32b
+    uid: 2518846ee21c610004effeae5cb8f9cc
+    meta:
+      author: Jason Mook
+      email: jason.mook@gmail.com
+    search: [bandcamp]
+
