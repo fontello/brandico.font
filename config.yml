@@ -470,3 +470,12 @@ glyphs:
       author: Richard Burton
       homepage: http://rb.cm
     search: [mastercard]
+
+  - css: houzz
+    code: 0xf32a
+    uid: bf819a687a180e0e02ef319600c99d3b
+    meta:
+      author: Jason Mook
+      email: jason.mook@gmail.com
+    search: [houzz]
+
