@@ -18,8 +18,8 @@ Installation
 This step is required, if you wish to contribute icons.
 
 1. You need `node.js` 0.8+ and `fontforge` installed first.
-2. run `npm install` in project folder
-3. (optional) install [ttfautohint](http://www.freetype.org/ttfautohint/). Under
+2. Run `npm install` in project folder
+3. (optional) Install [ttfautohint](http://www.freetype.org/ttfautohint/). Under
    Ubuntu just run `make dependencies` command. You can safely skip
    this step.
 
